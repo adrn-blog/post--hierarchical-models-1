@@ -3,3 +3,5 @@ date: 2022-09-22
 slug: "hierarchical-models-1"
 source: "post--hierarchical-models-1"
 math: true
+other_files:
+  - 'apogee-binaries.fits'
